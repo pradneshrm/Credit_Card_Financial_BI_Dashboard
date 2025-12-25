@@ -1,14 +1,19 @@
 # Credit_Card_Financial_BI_Dashboard
 This contains PowerBI Dashboard, highlighting insights for Credit Card transaction data. 
-Objective: The objective of this project was to highlight the insights through dashboard creation using Microsoft PowerBI Tool. To understand the usage patterns of customers on basis of revenue and gender. 
+**Objective:** The objective of this project was to highlight the insights through dashboard creation using Microsoft PowerBI Tool. To understand the usage patterns of customers on basis of revenue and gender. 
+
 **Steps:** 
 - Took a sample data of Customer Details and Credit Card Details
 - Imported the CSV file in Power BI
 - Created measures using DAX Queries
 - Prepared two dashboards: One contains credit card transaction data and the other focusing on gender specific usage of the data on different parameters
+
 **Dashboard Details:**
+
 **- First Dashboard - Credit Card Transaction Report**
+
 This dashboard shows following insights:
+
 1. Total Revenue: Implemented using Cards visualization
 2. Interest Earned: Implemented using Cards visualization
 3. Transaction Amount: Implemented using Cards visualization
@@ -21,8 +26,11 @@ This dashboard shows following insights:
 10. Mode of Transactions: This gadget highlights total revenue on basis of transaction modes(Swipe, Chip, Online). I have used Stacked Bar Chart visualization for this gadget.
 11. Male/Female: Use of TreeMap for this visualization. This helps to filter the other gadgets using gender of the customer.
 12. Quarter wise filtration: In this, I have used TreeMap visualization chart to show values on basis of Quarters.
+    
 **- Second Dashboard - Credit Card Customer Report**
+
 This dashboard shows following insights:
+
 1. Total Revenue: Implemented using Cards visualization
 2. Interest Earned: Implemented using Cards visualization
 3. Transaction Amount: Implemented using Cards visualization
