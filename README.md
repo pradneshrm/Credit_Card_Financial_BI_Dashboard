@@ -12,7 +12,7 @@ This contains PowerBI Dashboard, highlighting insights for Credit Card transacti
 
 **- First Dashboard - Credit Card Transaction Report**
 
-This dashboard shows following insights:
+This dashboard shows following gadgets:
 
 1. Total Revenue: Implemented using Cards visualization
 2. Interest Earned: Implemented using Cards visualization
@@ -29,7 +29,7 @@ This dashboard shows following insights:
     
 **- Second Dashboard - Credit Card Customer Report**
 
-This dashboard shows following insights:
+This dashboard shows following gadgets:
 
 1. Total Revenue: Implemented using Cards visualization
 2. Interest Earned: Implemented using Cards visualization
@@ -37,4 +37,8 @@ This dashboard shows following insights:
 4. CS Score: Implemented using Cards visualization. This gadget shows overall customer statisfaction score.
 5. Revenue by Customer Gender: Use of Line Chart in this gadget. Helps to understand the trends of the usage pattern on basis of gender.
 6. F/M: This is cards visualization gadget. Helps to uniformly define color and filter for the entire report.
-7. 
+7. Revenue by Income Groups & Gender: This gadget is implemented using Stacked Bar Chart. This highlights that High income and mid income customers are generating more revenue as compared to low income customers.
+8. Revenue by Age Groups & Gender: This gadget is implemented using Stacked Bar Chart. This highlights that 40-60 age group are generating more revenue as compared to other age group customers.
+9. Revenue by Customer jobs & Gender: This gadget is implemented using Stacked Bar Chart. This highlights that Businessman and White Collar job customers are generating more revenue as compared to fields.
+10. Revenue by Education Level: This gadget is implemented using Stacked Bar Chart. This highlights that customers who are Graduates are generating more revenue as compared to other customers.
+11. Top 5 states: Top 5 contributing states on basis of revenue. 
